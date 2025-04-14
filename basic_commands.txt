@@ -1,0 +1,9 @@
+# following are the basic and essential commands:
+take off: The drone takes off to a default altitude of 10 meters
+land: The drone lands safely
+up/ascend: Increase altitude by 5 meters
+down/descend: Decrease altitude by 5 meters
+ascend to [number]: Go to a specific altitude
+forward, backward, left, right: Move in that direction
+stop: Stop moving
+status: Display current drone state
