@@ -520,5 +520,14 @@ Available Commands:
         # Continue animation loop
         self.root.after(self.animation_speed, self.animate)
 
+# main program function:
+def main():
+    root = tk.Tk()
+    app = DroneControlApp(root)
+    root.mainloop()
+
+# initializing the program:
+if __name__ == "__main__":
+    main()
 
   
